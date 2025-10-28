@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hallo! 👋
+I am a bioinformatician with broad interests ranging from immunometabolism in cancer to neuromorphic computing.
 
 <!--
 **matthijshulsebos/matthijshulsebos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,6 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Some GitHub stats
 [![Matthijs's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthijshulsebos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+### Languages that I use
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matthijshulsebos&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
