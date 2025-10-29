@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 ### Some GitHub stats
-[![Matthijs's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthijshulsebos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Matthijs's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthijshulsebos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages that I use
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matthijshulsebos&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
