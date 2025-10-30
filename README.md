@@ -1,5 +1,5 @@
 ## Hallo! 👋
-I am a bioinformatician with broad interests ranging from immunometabolism in cancer to neuromorphic computing.
+I am a bioinformatician with broad interests ranging from immunometabolism in cancer to neuromorphic computing. Currently working on tools that support research in immunometabolic reprogramming in cancer.
 
 <!--
 **matthijshulsebos/matthijshulsebos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
